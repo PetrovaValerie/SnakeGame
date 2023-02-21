@@ -16,5 +16,5 @@ The goal is to make the snake as large as possible before that happens.
   
 ![Screen page][screen]
 
-[screen]: gif/chrome-capture-2023-1-21.gif
+[screen]: gif/game-tutorial.gif
 </div>
