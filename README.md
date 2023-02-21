@@ -3,6 +3,7 @@
 # Snake Game
 
 <!-- DESCRIPTION -->
+  
 <p align="left">
   
 In the game of Snake, the player uses the arrow keys to move a "snake" around the board. 
